@@ -19,7 +19,7 @@ A platform for teacher hiring......
 * Landing Page - After successful login or onboarding, user will be directed to Profile Page.
  
  
-### Profile - A page for teacher's profile.
+#### Profile - A page for teacher's profile.
 * It will show the personal details and career related details.
 * Teacher can also edit individual section in profile.
 
@@ -31,21 +31,21 @@ A platform for teacher hiring......
 ## School
 
 
-### Registration/Login
+#### Registration/Login
 * Registration/Login Form
 * Onboarding - A one-time Form for onboarding of the School.
 * Landing Page - After successful login or onboarding, user will be directed to Profile Page.
 
 
-### Jobs Posting
+#### Jobs Posting
 * A list of all jobs posted by school.
 * School can also post a new job.
 
 
-### Applications
+#### Applications
 * School can see list of all employees applied for a particular job.
 
-### Profile
+#### Profile
 * It will show all the details (heading, description etc.) of the school
 * School can edit their details.
 
