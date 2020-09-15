@@ -51,4 +51,4 @@ A platform for teacher hiring......
 
 
 
- 
+ **See ModuleDetail.md**
