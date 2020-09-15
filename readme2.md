@@ -10,11 +10,10 @@ A platform for teacher hiring......
 * Moderator (Admin)
 
 
-
 ## Teacher
 
 
-### Registration/Login
+#### Registration/Login
 * Registration/Login Form
 * Onboarding - A one-time Form for onboarding of the Teacher.
 * Landing Page - After successful login or onboarding, user will be directed to Profile Page.
@@ -25,9 +24,8 @@ A platform for teacher hiring......
 * Teacher can also edit individual section in profile.
 
 
-### Search - A page for searching jobs
+#### Search - A page for searching jobs
 * Teachers can search for jobs using various filters
-
 
 
 ## School
