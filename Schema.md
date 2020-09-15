@@ -1,10 +1,12 @@
-# User Onboarding and Registration Module
-Explains info about the new user registration, onboarding and data updation schema, data flow and component fields. 
-​
-### → Data Flow
- - User Registration
- - Stepper Form for onboarding
- - Profile Landing Page
+# Schema
+
+## User Login/Registration
+
+### Data Flow
+
+* User Registration/Login Form
+* Stepper Form for onboarding (one time only)
+* Landing Page
  -- Information Block
 ​
 ### → Information Block 
@@ -18,29 +20,31 @@ Explains info about the new user registration, onboarding and data updation sche
     Languages
     Extracurricular
     Attachments - [Testimonials, Reference Letters, Certificates etc.]
-    
+
+
 ### →  Data Specifications
- - User Registration Form
- -- First Name
- -- Last Name
- -- Email ID
- -- Mobile Number
- - Stepper Form (Get Selected Style)
- -- Job Role
- -- Preferred Teaching Subject (If role is teacher/ Instructor)
- -- Total Experience for Role
- -- Highest Degree Earned
- -- Part Time/ Full time
- -- Employer Type [Families/ Schools]
- -- Location Preferred
- -- Starting Date
-​
+* User Registration Form
+  * Name
+  * Email ID
+* Onboarding Form (Get Selected Style)
+  * Job Role
+  * Preferred Teaching Subject (If role is teacher/ Instructor)
+  * Total Experience for Role
+  * Highest Degree Earned
+  * Part Time/ Full time
+  * Employer Type [Families/ Schools]
+  * Location Preferred
+  * Starting Date
+
+
 ### →  Data Fields
+
 #### Personal Information
  - Title
  - First Name
  - Middle Name
  - Last name
+
 ##### → Contact Information
 - Email Address
  - Alternate Email
