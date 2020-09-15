@@ -50,5 +50,4 @@ A platform for teacher hiring......
 * School can edit their details.
 
 
- **See ModuleDetail.md**
-  See [plugins/dropbox/README.md][PlDb] for more details
+
