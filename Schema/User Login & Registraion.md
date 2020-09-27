@@ -63,7 +63,7 @@
  - Date Available to start
 ​
 #### Cover Letter
- - Colver Letter Input Box
+ - Cover Letter Input Box
 ​
 #### Education
  - Degree/ Education Type
